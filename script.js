@@ -28,7 +28,7 @@ const statusTextIdle = document.getElementById('status-text-idle');
 
 
 // --- Language Map for Status Texts ---
-const statusTexts = {
+const statusTexts  = {
     'de-DE': {
         idle: 'Starte das Gespräch',
         listening: 'Sag dem Assistenten etwas',
